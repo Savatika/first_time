@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// See 
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, GIT");
